@@ -1,4 +1,3 @@
-// src/main/java/com/yourdomain/loggingservice/dto/LogRequest.java
 package com.monitoring.logging.dto;
 
 import lombok.Data;
