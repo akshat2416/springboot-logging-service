@@ -1,4 +1,3 @@
-// src/main/java/com/yourdomain/loggingservice/service/LogListener.java
 package com.monitoring.logging.service;
 
 import com.monitoring.logging.dto.LogRequest;
