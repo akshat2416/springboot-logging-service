@@ -31,7 +31,7 @@ public class LogEntry {
     private Long responseTime;
 
     @Column(name = "user_id")
-    private String userId; // Optional, can be null
+    private String userId;
 
     @PrePersist
     public void onPrePersist() {
